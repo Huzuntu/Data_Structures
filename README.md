@@ -1,2 +1,2 @@
 # Data_Structures
-İTÜ'de yaptığım ödev dosyaları vs.
+İTÜ'de Data Structures üzerine yaptığım ödev dosyaları vs.
