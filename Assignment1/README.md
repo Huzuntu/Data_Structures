@@ -1,5 +1,6 @@
 TESTCALICO: 80/80
 
+```
 Data_Structures/Assignment1
 ├── bin
 │   └── main
@@ -11,10 +12,13 @@ Data_Structures/Assignment1
 └── src
     ├── linkedList.cpp
     ├── main.cpp
+```
 
 Kodu test etmek için:
 
+```shell
 $ git clone https://github.com/Huzuntu/Data_Structures.git
 $ pip install calico
 $ cd Data_Structures/Assignment1
 $ python -m calico.cli hw1.yaml
+```
