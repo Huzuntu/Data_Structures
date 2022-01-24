@@ -11,7 +11,7 @@ Data_Structures/Assignment1
 ├── README.md
 └── src
     ├── linkedList.cpp
-    ├── main.cpp
+    └── main.cpp
 ```
 
 Kodu test etmek için:
