@@ -1,2 +1,2 @@
 # Data_Structures
-İTÜ'de Data Structures Homeworks vs.
+ITU Data Structures Homeworks vs.
